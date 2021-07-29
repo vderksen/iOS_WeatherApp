@@ -1,5 +1,5 @@
 # iOS_WeatherApp
-The iOS_Weather App displays information about current weather (the temperature in celsius, the feels like temperature in celsius, wind speed, wind direction, and UV index) in the city which the user chooses from the picker view. </br>
+The iOS_Weather App displays information about current weather (the temperature in celsius, the feels like temperature in celsius, wind speed, wind direction, and UV index) in the city which the user chooses from the picker view. </br></br>
 The information provided by https://www.weatherapi.com/.
 
 #
